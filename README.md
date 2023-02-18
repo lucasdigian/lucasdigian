@@ -21,5 +21,7 @@ Aqui vai algumas de minhas informações
   <a href="https://www.linkedin.com/in/ldigian" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://lucas-digian.webflow.io" target="_blank"><img src="https://img.shields.io/badge/website-white?style=for-the-badge&logo=About.me&logoColor=black" target="_blank"></a>
   
+
+  <p align="center"><img align='center' scr='https://profile-counter.glitch.me/lucasdigian/count.svg' /></p>
   
 </div>
